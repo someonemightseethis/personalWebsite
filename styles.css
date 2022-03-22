@@ -33,24 +33,22 @@ h6{
 }
 
 .intro{
-  height: 650px;
   background-color: #272343;
-
+  align-content: center;
+  padding: 10% 10%;
+  color: #FFFFFF;
 }
 
 .introname{
   font-size: 80px;
-  padding-top: 200px;
   font-family: "Montserrat Subrayada", sans-serif;
-  color: #FFFFFF;
 }
 
 .introskills{
   font-size: 25px;
   font-family: 'Barlow Condensed', sans-serif;
   font-weight: 400;
-  color: #FFFFFF;
-  padding-top: 50px;
+  padding-top: 2%;
 }
 
 .module-img:hover{
