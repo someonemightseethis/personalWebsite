@@ -1,0 +1,88 @@
+h3{
+  font-family: 'Barlow Condensed', sans-serif;
+  font-weight: 600;
+  font-size: 20pt;
+}
+
+h6{
+  font-family: 'Barlow Condensed', sans-serif;
+  font-weight: 400;
+  font-size: 15pt;
+  margin: 0;
+}
+
+.footer{
+  background-color: #272343;
+  color: #FFFFFF;
+  text-align: center;
+  padding: 4% 30%;
+  margin: 0;
+}
+
+.fa-brands{
+  color: #FFFFFF;
+  transform: scale(1.2);
+}
+
+.fa-brands:hover{
+  transform: scale(1.1);
+}
+
+.hi{
+  font-family: 'Hubballi', cursive;
+}
+
+.intro{
+  height: 650px;
+  background-color: #272343;
+
+}
+
+.introname{
+  font-size: 80px;
+  padding-top: 220px;
+  font-family: "Montserrat Subrayada", sans-serif;
+  color: #FFFFFF;
+}
+
+.introskills{
+  font-size: 25px;
+  font-family: 'Barlow Condensed', sans-serif;
+  font-weight: 400;
+  color: #FFFFFF;
+  padding-top: 50px;
+}
+
+.module-img:hover{
+  transform: scale(1.06);
+}
+
+.module-img{
+  margin: 30px;
+}
+
+.modules{
+  padding: 80px 60px;
+}
+
+.module-def{
+  font-family: 'Barlow Condensed', sans-serif;
+  font-weight: 400;
+  font-size: 20px;
+  margin: 20px auto;
+  align-content: center;
+  padding: 0 15%;
+  color: grey;
+}
+
+.navbar{
+  background-color: #272343;
+}
+
+.navbar-brand{
+  margin: 0 auto;
+}
+
+.social-link{
+  margin: 30px;
+}
