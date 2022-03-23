@@ -11,16 +11,44 @@ h6{
   margin: 0;
 }
 
+@media (max-width: 1000px) {
+  .album-def{
+     padding: 5% 0;
+     text-align: center;
+  }
+  .album-name{
+    padding: 5% 0;
+    text-align: center;
+  }
+}
+
+.album-def{
+   font-family: 'Barlow Condensed', sans-serif;
+   font-weight: 400;
+   font-size: 25px;
+   color: #FFFFFF;
+   padding: 5% 0;
+}
+
+.album-name{
+   color: #FFFFFF;
+   font-size: 30pt;
+}
+
+.album-img{
+  align-content: center;
+  margin-bottom: 2%;
+}
+
 .footer{
-  background-color: #272343;
-  color: #FFFFFF;
+  background-color: #F7E2E2;
   text-align: center;
   padding: 4% 30%;
   margin: 0;
 }
 
 .fa-brands{
-  color: #FFFFFF;
+  color: black;
   transform: scale(1.2);
 }
 
@@ -33,7 +61,7 @@ h6{
 }
 
 .intro{
-  background-color: #272343;
+  background-color: #61A4BC;
   align-content: center;
   padding: 10% 10%;
   color: #FFFFFF;
@@ -51,12 +79,14 @@ h6{
   padding-top: 2%;
 }
 
-.module-img:hover{
+/* .module-img:hover{
   transform: scale(1.06);
-}
+} */
 
 .module-img{
   margin: 30px;
+  width: 100px;
+  height: 100px;
 }
 
 .modules{
@@ -73,8 +103,13 @@ h6{
   color: grey;
 }
 
+#music{
+  background-color: #5B7DB1;
+  padding: 10% 20%;
+}
+
 .navbar{
-  background-color: #272343;
+  background-color: #61A4BC;
 }
 
 .navbar-brand{
