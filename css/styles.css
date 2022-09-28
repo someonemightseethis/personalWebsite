@@ -1,4 +1,4 @@
-body{
+body {
   margin: 0;
 }
 
@@ -44,7 +44,7 @@ h6 {
   align-content: center;
 }
 
-.btn{
+.btn {
   font-family: 'Barlow Condensed', sans-serif;
   font-size: 14pt;
   border-radius: 1.2;
@@ -68,7 +68,7 @@ h6 {
 }
 
 .fa-solid {
-  color: #F27261;
+  color: #F27666;
   margin-bottom: 40px;
 }
 
@@ -100,22 +100,27 @@ h6 {
   padding-top: 2%;
 }
 
+.listen-now {
+  margin: 0;
+  margin-bottom: 5%;
+}
+
 .modules {
   background-color: #FFFFFF;
-  padding: 0 10%;
+  padding: 0 15%;
 }
 
 .module-def {
   font-family: 'Barlow Condensed', sans-serif;
   font-weight: 400;
   font-size: 20px;
-  margin: 20px auto;
+  margin: 10% 5%;
   align-content: center;
   padding: 0;
   color: grey;
 }
 
-.module-name{
+.module-name {
   color: #61A4BC;
 }
 
@@ -132,7 +137,7 @@ h6 {
   margin: 0 auto;
 }
 
-.social{
+.social {
   padding: 0 30%;
   margin: 0;
 }
@@ -141,11 +146,12 @@ h6 {
   margin: 30px;
 }
 
-.svg{
+.svg {
   margin: -2% 0;
   padding: 0;
 }
-.svg1{
+
+.svg1 {
   margin: -5% 0;
   padding: 0;
 }
